@@ -4,4 +4,4 @@
 
 ## 内容
 
-- [AGENTS.md](./AGENTS.md) — 开发规范：提案/执行/提交流程、问题阐述模板等。
+- [k8s-learning](./k8s-learning/) — Kubernetes 学习笔记、PDF 与配套图片资料。
