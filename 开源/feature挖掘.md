@@ -1,1 +1,1 @@
-仔细探索仓库，筛选top20的feats点并且逐一验证，最后写入endpca/list下写成markdown文档，注意参照里面的其他文档的格式
+仔细探索仓库，筛选top20的feats点并且逐一验证，最后写入endpca/list下写成markdown文档，注意参照里面的其他文档的格式，注意不要打勾
